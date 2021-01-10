@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.c1{
+    position: absolute;
+    left:50%;
+    top:50%;
+    width: 100%;
+    transform: translate(-50%,-50%);
+}
+
+    
+.c1 h2{
+    text-align: center;
+    font-size: 60px;
+}
+
+.c1 a{
+    left:50%;
+    position: absolute;
+    transform: translate(-50%);
+}

@@ -1,0 +1,9 @@
+body{
+    padding: 20px;
+}
+
+hr{
+    width: 50px;
+    text-align:center;
+    background-color: #007bff
+}
